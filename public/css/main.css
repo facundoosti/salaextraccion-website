@@ -317,6 +317,8 @@ section {
 #about-us {
   background-image: url(../images/about-bg.jpg);
   padding: 60px 0;
+  opacity: 1.0;
+  filter: alpha(opacity=100);
 }
 
 #about-us h2 {
